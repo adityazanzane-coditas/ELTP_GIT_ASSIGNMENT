@@ -1,1 +1,2 @@
 This is content of Master.txt
+Modified master.txt
